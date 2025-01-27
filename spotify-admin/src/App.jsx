@@ -8,7 +8,7 @@ import Sidebar from "./components/Sidebar";
 import { ToastContainer } from "react-toastify";
 import { Routes, Route } from "react-router-dom";
 
-export const url = "http://localhost:8080";
+export const url = "https://spotify-backend-tdel.onrender.com";
 
 const App = () => {
   return (
